@@ -129,10 +129,6 @@ Train LSTM models to predict future player positions:
 
 ---
 
-
-
----
-
 ## Credits & Acknowledgments
 
 - **YOLO Detection Pipeline**: Based on [Roboflow's Football Analysis Tutorial](https://www.youtube.com/watch?v=aBVGKoNZQUw)
